@@ -169,13 +169,6 @@ knitr::include_graphics("digital.png")
 
 -   Youth with high self-efficacy, regardless of their institutional trust, may view multiple forms of engagement as normatively acceptable and even necessary.
 
-## Discussion
-
--   Understanding the determinants behind political participation expectations among young people is essential for grasping the future of democratic engagement.
-
--   Adolescents are not merely passive recipients of political messages, they are actively constructing their political identities and frameworks for action.
-
--   By examining how self-efficacy and institutional trust interact to shape these expectations, we gain critical insight into the early stages of political socialization.
 
 # Thank you!
 
