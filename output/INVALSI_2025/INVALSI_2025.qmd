@@ -1,6 +1,6 @@
 ---
 pagetitle: "INVALSI 2025"
-Author: Daniel Miranda
+Author: Daniel Miranda & Felipe Sánchez-Barría
 lang: es
 
 knitr:
