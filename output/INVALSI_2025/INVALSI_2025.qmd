@@ -12,21 +12,17 @@ knitr:
       
 format:
   revealjs:
-    code-overflow: scroll   # para scroll horizontal si el chunk es largo
-    code-fold: false        # o true si quieres que se colapsen
+    logo: img/invalsi1.png
     slide-number: true
-    theme: "libs/style.scss"
-    auto-stretch: false
+    theme: [pp.scss]
     title-slide-attributes:
       visibility: false
-    transition: slide
+    transition: zoom
     transition-speed: slow
 # data-background-image: images/cover.jpg
 # data-background-size: cover
     auto-play-media: true
-  pdf:
-    format: beamer 
-    keep-tex: true  # Debug LaTeX output if needed
+editor: visual
 ---
 
 ::: columns
