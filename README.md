@@ -25,7 +25,7 @@ This repository structure follows the IPO Protocol:
 
 ## Conferences
 
--  [X INVALSI Seminar: Gamson's Mistrustful-Efficacious Political Participation Hypothesis in adolescents using the ICCS 2022](https://damiranda.github.io/gamsoncomparative/output/invalsi_2025/invalsi_2025.html)
+-  [X INVALSI Seminar: Gamson's Mistrustful-Efficacious Political Participation Hypothesis in adolescents using the ICCS 2022](https://damiranda.github.io/GamsonComparative/output/INVALSI_2025/INVALSI_2025.html)
 
 ## Paper
 
