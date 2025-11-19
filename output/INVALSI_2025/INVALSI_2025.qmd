@@ -41,11 +41,13 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-**Daniel Miranda**, Universidad de Chile, Departamento de Psicología, Universidad de Chile
+**Daniel Miranda**, department of Psychology, Universidad de Chile
 
 Felipe Sanchéz-Barría, Universidad de los Andes
 
 [Núcleo Milenio Desigualdades y Oportunidades Digitales](https://nudos.cl).
+
+[Centre for Conflict and Social Ciohesion Studies](https://coes.cl/).
 
 X Seminar "Data from and for the educational system: tools for research and teaching", Ostia, Rome, 19 - 20 - 21 November 2025
 :::
