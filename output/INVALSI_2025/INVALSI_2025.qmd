@@ -26,12 +26,14 @@ editor: visual
 ---
 
 ::: columns
-::: {.column width="15%"}
+::: {.column width="10%"}
 ![](img/invalsi1.png)
 
 ![](img/invalsi2.png)
 
-![](img/regular.png) ![](img/coes.png)
+![](img/regular.png)
+
+![](img/coes.png)
 :::
 
 ::: {.column .column-right width="85%"}
@@ -95,7 +97,9 @@ Ostia, Rome, 19 - 20 - 21 November 2025
 
 -   We developed the "Gamson typology," which classifies students into five groups based on their levels of self-efficacy and political trust. To define these levels, we used the 25th and 75th percentiles as cutoff points, categorizing students as having either low or high self-efficacy and political trust accordingly.
 
-    ![](images/paste-3A0178FB.png){fig-align="center" width="30%"}
+## Data and Measurements
+
+![](images/paste-3A0178FB.png){fig-align="center" width="50%"}
 
 ## Self-Efficacy and Institutional Trust
 
@@ -137,21 +141,17 @@ We use two dependent variables that measure the intention to engage in different
 
 ## Legal Participation
 
-```{r echo=FALSE, out.width = '80%', out.height='80%'}
-knitr::include_graphics("legal.png")
-```
+![](legal.png){fig-align="center" width="50%"}
+
 
 ## Illegal Participation
 
-```{r echo=FALSE, out.width = '80%', out.height='80%'}
-knitr::include_graphics("illegal.png")
-```
+![](illegal.png){fig-align="center" width="50%"}
+
 
 ## Digital Participation
 
-```{r echo=FALSE, out.width = '80%', out.height='80%'}
-knitr::include_graphics("digital.png")
-```
+![](digital.png){fig-align="center" width="50%"}
 
 ## Conclusion
 
